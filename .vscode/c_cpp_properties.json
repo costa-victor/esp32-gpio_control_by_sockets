@@ -1,0 +1,26 @@
+
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "includePath": [
+        "${config:idf.espIdfPath}/components/**",
+        "${workspaceFolder}/**",
+        "${config:idf.espIdfPath}/examples/common_components/protocol_examples_common/include/**",
+        "${workspaceFolder}/main/**"
+      ],
+      "browse": {
+        "path": [
+          "${config:idf.espIdfPath}/components",
+          "${workspaceFolder}",
+          "${config:idf.espIdfPath}/examples/common_components/protocol_examples_common/include",
+          "${workspaceFolder}/main"
+        ],
+        "limitSymbolsToIncludedHeaders": false
+      }
+    }
+  ],
+  "version": 4
+}

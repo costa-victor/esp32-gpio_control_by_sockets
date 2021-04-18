@@ -1,0 +1,25 @@
+{
+    "C_Cpp.clang_format_style": "Visual Studio",
+    "editor.formatOnSave": false,
+    "[cpp]": {
+        "editor.quickSuggestions": true
+    },
+    "[c]": {
+        "editor.quickSuggestions": true
+    },
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "freertos.h": "c",
+        "task.h": "c",
+        "esp_system.h": "c",
+        "esp_wifi.h": "c",
+        "esp_log.h": "c",
+        "nvs_flash.h": "c",
+        "protocol_examples_common.h": "c",
+        "*.inc": "c",
+        "sockets.h": "c",
+        "err.h": "c",
+        "esp_event.h": "c"
+    }
+}

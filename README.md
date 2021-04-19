@@ -31,11 +31,15 @@ So, just run **tcp_client.c** and have fun :)
 **Client side / Server side**
 ![img1](./images/img1.png)
 
+
+
+**Running app**
+
+![gif1](./images/img4.gif)
+
+
 **Before send commands / After send commands**
 <div class="box">
   <img src="./images/img3.jpeg" alt="drawing" width="400"/>
   <img src="./images/img2.jpeg" alt="drawing" width="400"/>
 </div>
-
-**Running app**
-![gif1](./images/img4.gif)

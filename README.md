@@ -27,12 +27,15 @@ server.sin_addr.s_addr = inet_addr("YOUR-ESP-IP-ADDRESS");
 
 So, just run **tcp_client.c** and have fun :)
 
-## Images
-Client side / Server side
+## Demonstration
+**Client side / Server side**
 ![img1](./images/img1.png)
 
-Before send commands / After send commands
+**Before send commands / After send commands**
 <div class="box">
   <img src="./images/img3.jpeg" alt="drawing" width="400"/>
   <img src="./images/img2.jpeg" alt="drawing" width="400"/>
 </div>
+
+**Running app**
+![gif1](./images/img4.gif)

@@ -48,7 +48,7 @@ int main(int argc , char *argv[])
 		printf("Could not create socket");
 	}
 		
-	server.sin_addr.s_addr = inet_addr("YOUR-ESP-IP-ADDRESS");
+	server.sin_addr.s_addr = inet_addr("192.168.1.104");
 	server.sin_family = AF_INET;
 	server.sin_port = htons(3333);
 
